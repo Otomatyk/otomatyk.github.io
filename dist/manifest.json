@@ -1,0 +1,39 @@
+{
+    "name": "Calls Manager",
+    "short_name": "Calls Manager",
+    "theme_color": "#4e83cb",
+    "background_color": "#1c1e6b",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "https://otomatyk.github.io/",
+    "start_url": "https://otomatyk.github.io/index.html",
+
+    "icons": [
+        {
+          "src": "/call_manager.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+
+        {
+            "src": "/maskable_icon_x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+
+        {
+            "src": "/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+
+        {
+            "src": "/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
